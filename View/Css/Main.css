@@ -1,0 +1,21 @@
+/* css for header */
+
+.The-header,
+.slider,
+.footer {
+    padding: 0;
+}
+
+.footer-item {
+    margin: auto;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.about-me,
+.title {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+}
